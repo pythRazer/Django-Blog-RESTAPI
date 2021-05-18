@@ -4,9 +4,9 @@ A blog API sample made by Django REST Framework, including Permissions, User Aut
 API Post List View
 
 ![Alt text](/screenshots/api-post-list.png?raw=true "API Post List View")
-API Post Instance View
+API Post Instance Owner View
 
-![Alt text](/screenshots/api-post-instance.png?raw=true "API Post Instance View")
+![Alt text](/screenshots/api-post-instance-owner.png?raw=true "API Post Instance View")
 API Login in Token
 
 ![Alt text](/screenshots/api-login-in-token.png?raw=true "API Login in Token")
