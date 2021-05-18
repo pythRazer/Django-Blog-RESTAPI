@@ -1,4 +1,4 @@
-# Django-Blog-RESTAPI
+# Django-Blog-RESTfulAPI
 A blog API sample made by Django REST Framework, including Permissions, User Authentication with Tokens, Schemas and Documentation
 
 API Post List View
